@@ -4,7 +4,7 @@
 \alias{filterXts}
 \title{Filter data.frame with xts syntax}
 \usage{
-filterXts(df, xtsstring, tzone = "UTC", by_colname = NULL)
+filterXts(df, xtsstring, tzone = "UTC", by_colname = "Datetime")
 }
 \arguments{
 \item{df}{a data.frame with at least one column of POSIXct values.}
