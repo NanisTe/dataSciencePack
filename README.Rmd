@@ -30,7 +30,7 @@ This package is not yet available on CRAN.
 <!-- install.packages("dataSciencePack") -->
 <!-- ``` -->
 
-And the development version from [GitHub](https://github.com/) with:
+Install the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
